@@ -1,4 +1,4 @@
 # Macro_figma_project
-1.download the Untitled.fig file
-2.open figma and import the Untitled.fig file
-3.go to live preview
+step 1:- download the Untitled.fig file
+step 2:- open figma and import the Untitled.fig file
+step 3:- go to live preview
